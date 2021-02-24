@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to terrariaitemdrop 👋</h1>
+<h1 align="center">Terraria Item Drop 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/ashvinr03/terrariaitemdrop#readme" target="_blank">
@@ -11,6 +11,7 @@
     <img alt="License: MIT" src="https://img.shields.io/github/license/ashvinr03/terrariaitemdrop" />
   </a>
   <img alt="Discord" src="https://img.shields.io/discord/813941027169239100">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ashvinr03/terrariaitemdrop">
 </p>
 
 > program that determines your chances of receiving an item drop
