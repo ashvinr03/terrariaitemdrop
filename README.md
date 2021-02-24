@@ -14,7 +14,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ashvinr03/terrariaitemdrop">
 </p>
 
-> program that determines your chances of receiving an item drop
+> program that determines your chances of receiving an item drop using the terraria wiki
 
 ### 🏠 [Homepage](https://github.com/ashvinr03/terrariaitemdrop#readme)
 

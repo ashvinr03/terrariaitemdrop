@@ -42,7 +42,7 @@ uClient.close()
 #finds percentages from the main div's p tags
 testContainer = soupy.find("div", {"class": "mw-parser-output"}).findAll('p')
 print(testContainer)
-#r'\d*%'
-testContainerPercents = print(re.findall(r'^d+(\.d{1,2})?$', str(testContainer))) #does not account for decimals in the percentage
+
+testContainerPercents = print(re.findall(r'\d*\.?\d+%', str(testContainer))) 
 
 #for items in testContainerPercents:
