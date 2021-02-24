@@ -1,15 +1,35 @@
-# Terraria Drop Rarity
+<h1 align="center">Welcome to terrariaitemdrop 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/ashvinr03/terrariaitemdrop#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/ashvinr03/terrariaitemdrop/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/ashvinr03/terrariaitemdrop/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ashvinr03/terrariaitemdrop" />
+  </a>
+</p>
 
-[work in progress] program that tells you your odds of getting an item dropped.
+> program that determines your chances of receiving an item drop
 
-## Details/Info
-This program is meant to be a web scraper that uses a local set of item data, and feeds the terraria item into the official gamepedia site, and if there is a drop rarity it will show the details of the drop chance back to you.
+### 🏠 [Homepage](https://github.com/ashvinr03/terrariaitemdrop#readme)
 
-Some of the aspects used to make this project included plugins to read from an excel sheet which has all of the items and their details, web scraper plugin to act as a bot to take info from the official gamepedia site, statistic-based math to determine your odds based off how long you've been grinding, etc. 
+## Author
 
-## Contributing
-ashvinr03 - Ashvin R
-Lance C
+👤 **Ashvin R**
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+* Github: [@ashvinr03](https://github.com/ashvinr03)
+* LinkedIn: [@ashvinr03](https://linkedin.com/in/ashvinr03)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [Ashvin R](https://github.com/ashvinr03).<br/>
+This project is [MIT](https://github.com/ashvinr03/terrariaitemdrop/blob/master/LICENSE) licensed.
+
+***
