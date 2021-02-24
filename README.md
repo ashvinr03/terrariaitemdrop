@@ -10,6 +10,7 @@
   <a href="https://github.com/ashvinr03/terrariaitemdrop/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/ashvinr03/terrariaitemdrop" />
   </a>
+  <img alt="Discord" src="https://img.shields.io/discord/813941027169239100">
 </p>
 
 > program that determines your chances of receiving an item drop
